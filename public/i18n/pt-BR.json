@@ -1,0 +1,1238 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 278,
+        "text": "Farm"
+      }
+    },
+    {
+      "data": {
+        "stringId": 280,
+        "text": "Investindo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 284,
+        "text": "Exchange"
+      }
+    },
+    {
+      "data": {
+        "stringId": 286,
+        "text": "Docs"
+      }
+    },
+    {
+      "data": {
+        "stringId": 288,
+        "text": "Votando"
+      }
+    },
+    {
+      "data": {
+        "stringId": 290,
+        "text": "Loteria"
+      }
+    },
+    {
+      "data": {
+        "stringId": 292,
+        "text": "Desbloquear Carteira"
+      }
+    },
+    {
+      "data": {
+        "stringId": 294,
+        "text": "Saldo do seu %asset%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 296,
+        "text": "Suprimento total de %asset%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 298,
+        "text": "BLOQUEADO"
+      }
+    },
+    {
+      "data": {
+        "stringId": 300,
+        "text": "Colheita pendente"
+      }
+    },
+    {
+      "data": {
+        "stringId": 302,
+        "text": "Novos prêmios por bloco"
+      }
+    },
+    {
+      "data": {
+        "stringId": 304,
+        "text": "Total de BLZD queimado desde o lançamento"
+      }
+    },
+    {
+      "data": {
+        "stringId": 306,
+        "text": "Veja a Cozinha"
+      }
+    },
+    {
+      "data": {
+        "stringId": 308,
+        "text": "Telegram"
+      }
+    },
+    {
+      "data": {
+        "stringId": 310,
+        "text": "Blog"
+      }
+    },
+    {
+      "data": {
+        "stringId": 312,
+        "text": "Github"
+      }
+    },
+    {
+      "data": {
+        "stringId": 314,
+        "text": "Twitter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 316,
+        "text": "Depósito"
+      }
+    },
+    {
+      "data": {
+        "stringId": 318,
+        "text": "Ganho"
+      }
+    },
+    {
+      "data": {
+        "stringId": 320,
+        "text": "Invista tokens LP para ganhar BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 322,
+        "text": "Invista BLZD, receba SYRUP."
+      }
+    },
+    {
+      "data": {
+        "stringId": 328,
+        "text": "Você pode trocar de volta a qualquer momento"
+      }
+    },
+    {
+      "data": {
+        "stringId": 330,
+        "text": "%asset% Ganho"
+      }
+    },
+    {
+      "data": {
+        "stringId": 332,
+        "text": "Tokens Investidos"
+      }
+    },
+    {
+      "data": {
+        "stringId": 334,
+        "text": "Cada vez que você investir e resgatar tokens BLZD, o contrato coletará recompensas BLZD automaticamente para você!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 338,
+        "text": "The Sous Chef is cooking up a treat for all SYRUP holders"
+      }
+    },
+    {
+      "data": {
+        "stringId": 340,
+        "text": "Tokens SYRUP Investidos"
+      }
+    },
+    {
+      "data": {
+        "stringId": 342,
+        "text": "Tokens XVS Ganhos"
+      }
+    },
+    {
+      "data": {
+        "stringId": 344,
+        "text": "Invista seus tokens SYRUP para ganhar tokens de novos projetos."
+      }
+    },
+    {
+      "data": {
+        "stringId": 346,
+        "text": "As recompensas serão calculadas por bloco e as recompensas totais serão distribuídas automaticamente no final de cada período de cultivo do projeto."
+      }
+    },
+    {
+      "data": {
+        "stringId": 348,
+        "text": "Pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 350,
+        "text": "Em breve"
+      }
+    },
+    {
+      "data": {
+        "stringId": 352,
+        "text": "APR"
+      }
+    },
+    {
+      "data": {
+        "stringId": 354,
+        "text": "Liquidez Total"
+      }
+    },
+    {
+      "data": {
+        "stringId": 356,
+        "text": "Ver no BscScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 358,
+        "text": "Preço do BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 360,
+        "text": "Tokens %asset% Ganhos"
+      }
+    },
+    {
+      "data": {
+        "stringId": 362,
+        "text": "%num% blocks until farming ends"
+      }
+    },
+    {
+      "data": {
+        "stringId": 364,
+        "text": "Total Syrup Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 380,
+        "text": "1 BLZD = 1 SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 382,
+        "text": "Em breve..."
+      }
+    },
+    {
+      "data": {
+        "stringId": 384,
+        "text": "Seu Investimento"
+      }
+    },
+    {
+      "data": {
+        "stringId": 386,
+        "text": "Farming starts in %num% Blocks"
+      }
+    },
+    {
+      "data": {
+        "stringId": 388,
+        "text": "Concluído"
+      }
+    },
+    {
+      "data": {
+        "stringId": 390,
+        "text": "Farming ends in %num% Blocks"
+      }
+    },
+    {
+      "data": {
+        "stringId": 392,
+        "text": "Site do Projeto"
+      }
+    },
+    {
+      "data": {
+        "stringId": 394,
+        "text": "Unstake SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 400,
+        "text": "SYRUP holders proportionally split 25% of BLZD block emissions each day (10 BLZD per block), Rewards are distributed each block."
+      }
+    },
+    {
+      "data": {
+        "stringId": 402,
+        "text": "Invista o SYRUP para ganhar novos tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 406,
+        "text": "As recompensas são calculadas por bloco."
+      }
+    },
+    {
+      "data": {
+        "stringId": 408,
+        "text": "Total"
+      }
+    },
+    {
+      "data": {
+        "stringId": 409,
+        "text": "Iniciar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 410,
+        "text": "Finalizar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 412,
+        "text": "Ver site do projeto"
+      }
+    },
+    {
+      "data": {
+        "stringId": 414,
+        "text": "Seu Projeto? \ud83d\udc40"
+      }
+    },
+    {
+      "data": {
+        "stringId": 416,
+        "text": "Crie um pool para o seu token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 418,
+        "text": "Aplicar agora"
+      }
+    },
+    {
+      "data": {
+        "stringId": 420,
+        "text": "Phase 1: BUYING"
+      }
+    },
+    {
+      "data": {
+        "stringId": 424,
+        "text": "%num% BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 426,
+        "text": "Gaste BLZD para comprar bilhetes, contribuindo para o prêmio da loteria. A compra de ingressos termina em aprox. 30 minutos antes da loteria. Ganhe prêmios se 2, 3 ou 4 dos números de seus bilhetes corresponderem aos números vencedores e suas posições! Boa sorte!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 428,
+        "text": "Total de bilhetes para esta rodada"
+      }
+    },
+    {
+      "data": {
+        "stringId": 430,
+        "text": "Comprar bilhete"
+      }
+    },
+    {
+      "data": {
+        "stringId": 432,
+        "text": "Ver seus bilhetes"
+      }
+    },
+    {
+      "data": {
+        "stringId": 434,
+        "text": "Tempo restante para comprar ingressos"
+      }
+    },
+    {
+      "data": {
+        "stringId": 438,
+        "text": "Fechar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 440,
+        "text": "Últimos Números Vencedores"
+      }
+    },
+    {
+      "data": {
+        "stringId": 442,
+        "text": "Bilhetes com 4 números sorteados:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 444,
+        "text": "Bilhetes com 3 números sorteados:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 446,
+        "text": "Bilhetes com 2 números sorteados:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 448,
+        "text": "Exportar números vencedores recentes"
+      }
+    },
+    {
+      "data": {
+        "stringId": 450,
+        "text": "Insira a quantidade de bilhetes para comprar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 452,
+        "text": "Max"
+      }
+    },
+    {
+      "data": {
+        "stringId": 454,
+        "text": "%num%  de BLZD Disponíveis"
+      }
+    },
+    {
+      "data": {
+        "stringId": 456,
+        "text": "Seu valor deve ser um múltiplo de 10 BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 458,
+        "text": "1 Bilhete = 10 BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 462,
+        "text": "Cancelar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 464,
+        "text": "Confirmar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 466,
+        "text": "Aviso"
+      }
+    },
+    {
+      "data": {
+        "stringId": 468,
+        "text": "As compras de bilhetes de loteria são finais."
+      }
+    },
+    {
+      "data": {
+        "stringId": 472,
+        "text": "Os bilhetes são válidos apenas para um sorteio de loteria e serão queimados após o sorteio."
+      }
+    },
+    {
+      "data": {
+        "stringId": 474,
+        "text": "Comprar bilhetes não garante que você vai ganhar nada. Participe apenas depois de compreender os riscos."
+      }
+    },
+    {
+      "data": {
+        "stringId": 476,
+        "text": "Eu compreendo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 478,
+        "text": "A compra de bilhetes é definitiva. O BLZD não pode ser devolvido a você após a compra dos bilhetes."
+      }
+    },
+    {
+      "data": {
+        "stringId": 480,
+        "text": "Reinvindicar prêmios"
+      }
+    },
+    {
+      "data": {
+        "stringId": 482,
+        "text": "Prêmios BLZD a serem reivindicados"
+      }
+    },
+    {
+      "data": {
+        "stringId": 484,
+        "text": "Phase 2: CLAIMING"
+      }
+    },
+    {
+      "data": {
+        "stringId": 486,
+        "text": "Você pode resgatar a qualquer momento."
+      }
+    },
+    {
+      "data": {
+        "stringId": 488,
+        "text": "Confirmação Pendente"
+      }
+    },
+    {
+      "data": {
+        "stringId": 490,
+        "text": "My Tickets (Total: %TICKETS%)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 492,
+        "text": "Approx. time before next lottery start"
+      }
+    },
+    {
+      "data": {
+        "stringId": 494,
+        "text": "Approve BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 496,
+        "text": "SYRUP holders proportionally split 40% of BLZD block emissions each day (10 BLZD per block), Rewards are distributed each block."
+      }
+    },
+    {
+      "data": {
+        "stringId": 500,
+        "text": "IFO: Initial Farm Offerings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 502,
+        "text": "Compre novos tokens com um novo modelo de venda de tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 504,
+        "text": "You\u2019ll pay for the new tokens using BLZD-BNB LP tokens, which means you need to stake equal amounts of BLZD and BNB in a liquidity pool to take part."
+      }
+    },
+    {
+      "data": {
+        "stringId": 506,
+        "text": "Get BLZD-BNB LP >"
+      }
+    },
+    {
+      "data": {
+        "stringId": 508,
+        "text": "The project gets the BNB, BLIZZARD.MONEY burns the BLZD."
+      }
+    },
+    {
+      "data": {
+        "stringId": 510,
+        "text": "You get the tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 512,
+        "text": "Want to launch your own IFO?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 514,
+        "text": "Launch your project with BLIZZARD.MONEY, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+      }
+    },
+    {
+      "data": {
+        "stringId": 516,
+        "text": "Apply to launch"
+      }
+    },
+    {
+      "data": {
+        "stringId": 520,
+        "text": "Comunidade"
+      }
+    },
+    {
+      "data": {
+        "stringId": 522,
+        "text": "Core"
+      }
+    },
+    {
+      "data": {
+        "stringId": 526,
+        "text": "Disponível"
+      }
+    },
+    {
+      "data": {
+        "stringId": 528,
+        "text": "Minha Carteira"
+      }
+    },
+    {
+      "data": {
+        "stringId": 530,
+        "text": "Desconectar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 532,
+        "text": "Harvest all (%count%)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 534,
+        "text": "BLZD Stats"
+      }
+    },
+    {
+      "data": {
+        "stringId": 536,
+        "text": "Total BLZD Supply"
+      }
+    },
+    {
+      "data": {
+        "stringId": 538,
+        "text": "Total BLZD Burned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 540,
+        "text": "New BLZD\/block"
+      }
+    },
+    {
+      "data": {
+        "stringId": 542,
+        "text": "Farms & Staking"
+      }
+    },
+    {
+      "data": {
+        "stringId": 544,
+        "text": "BLZD to Harvest"
+      }
+    },
+    {
+      "data": {
+        "stringId": 546,
+        "text": "BLZD in Wallet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 548,
+        "text": "Collecting BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 550,
+        "text": "Your Lottery Winnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 552,
+        "text": "BLZD to Collect"
+      }
+    },
+    {
+      "data": {
+        "stringId": 554,
+        "text": "Total jackpot this round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 556,
+        "text": "Collect Winnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 558,
+        "text": "Comprar Bilhetes"
+      }
+    },
+    {
+      "data": {
+        "stringId": 562,
+        "text": "Coletar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 564,
+        "text": "Aprovar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 568,
+        "text": "Selecionar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 570,
+        "text": "Números vencedores nesta rodada"
+      }
+    },
+    {
+      "data": {
+        "stringId": 574,
+        "text": "Staking Pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 576,
+        "text": "BLIZZARD.MONEY"
+      }
+    },
+    {
+      "data": {
+        "stringId": 578,
+        "text": "The best DEFI app on Binance Smart Chain."
+      }
+    },
+    {
+      "data": {
+        "stringId": 580,
+        "text": "Invista BLZD para ganhar novos tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 582,
+        "text": "Launch Time"
+      }
+    },
+    {
+      "data": {
+        "stringId": 584,
+        "text": "For Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 586,
+        "text": "BLZD to burn (USD)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 588,
+        "text": "Resgatar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 590,
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest BLZD rewards for you!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 592,
+        "text": "Como fazer parte"
+      }
+    },
+    {
+      "data": {
+        "stringId": 594,
+        "text": "Antes da Venda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 596,
+        "text": "Buy BLZD and BNB tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 598,
+        "text": "Get BLZD-BNB LP tokens by adding BLZD and BNB liquidity"
+      }
+    },
+    {
+      "data": {
+        "stringId": 600,
+        "text": "Durante a venda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 602,
+        "text": "While the sale is live, commit your BLZD-LP tokens to buy the IFO tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 604,
+        "text": "Pós-venda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 606,
+        "text": "Reivindique os tokens que você comprou, junto com quaisquer fundos não gastos."
+      }
+    },
+    {
+      "data": {
+        "stringId": 608,
+        "text": "Concluído!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 610,
+        "text": "Ler mais"
+      }
+    },
+    {
+      "data": {
+        "stringId": 612,
+        "text": "Conectar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 614,
+        "text": "Troque por BLZD ou guarde para sua coleção!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 616,
+        "text": "Registre seu interesse em ganhar um NFT abaixo."
+      }
+    },
+    {
+      "data": {
+        "stringId": 618,
+        "text": "Inscreva-se para ter a chance de ganhar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 620,
+        "text": "Ler mais"
+      }
+    },
+    {
+      "data": {
+        "stringId": 622,
+        "text": "Trade in NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 624,
+        "text": "Negociar em"
+      }
+    },
+    {
+      "data": {
+        "stringId": 626,
+        "text": "Você irá receber"
+      }
+    },
+    {
+      "data": {
+        "stringId": 628,
+        "text": "Ao negociar este NFT para receber BLZD, você perderá o acesso a ele para sempre!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 630,
+        "text": "Reinvindicar NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 632,
+        "text": "Como funciona"
+      }
+    },
+    {
+      "data": {
+        "stringId": 634,
+        "text": "Os vencedores poderão reivindicar um NFT nesta página assim que o período de reivindicação começar."
+      }
+    },
+    {
+      "data": {
+        "stringId": 636,
+        "text": "Se não for sortedo, você não poderá reivindicar. Mais sorte da próxima vez!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 638,
+        "text": "Os vencedores podem negociar seus NFTs por um valor BLZD até a data de expiração escrita abaixo. Se você não negociar seu NFT até lá, não se preocupe: você ainda o manterá em sua carteira!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 640,
+        "text": "Como os vencedores são selecionados?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 642,
+        "text": "Os vencedores são selecionados aleatoriamente! Boa sorte!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 646,
+        "text": "Value if traded in"
+      }
+    },
+    {
+      "data": {
+        "stringId": 648,
+        "text": "Number minted"
+      }
+    },
+    {
+      "data": {
+        "stringId": 650,
+        "text": "Number burned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 652,
+        "text": "Claim this NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 654,
+        "text": "Trade in for BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 656,
+        "text": "Carregando\u2026"
+      }
+    },
+    {
+      "data": {
+        "stringId": 658,
+        "text": "Detalhes"
+      }
+    },
+    {
+      "data": {
+        "stringId": 660,
+        "text": "Você venceu!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 662,
+        "text": "Reivindique um NFT das opções abaixo!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 664,
+        "text": "Pode ser negociado até"
+      }
+    },
+    {
+      "data": {
+        "stringId": 666,
+        "text": "Carteira Desconectada"
+      }
+    },
+    {
+      "data": {
+        "stringId": 668,
+        "text": "Conecte-se para ver se você ganhou um NFT!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 670,
+        "text": "Home"
+      }
+    },
+    {
+      "data": {
+        "stringId": 672,
+        "text": "Negociar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 674,
+        "text": "Farms"
+      }
+    },
+    {
+      "data": {
+        "stringId": 676,
+        "text": "Pools"
+      }
+    },
+    {
+      "data": {
+        "stringId": 678,
+        "text": "NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 680,
+        "text": "Info"
+      }
+    },
+    {
+      "data": {
+        "stringId": 682,
+        "text": "IFO"
+      }
+    },
+    {
+      "data": {
+        "stringId": 684,
+        "text": "Mais"
+      }
+    },
+    {
+      "data": {
+        "stringId": 686,
+        "text": "Liquidez"
+      }
+    },
+    {
+      "data": {
+        "stringId": 688,
+        "text": "Visão Geral"
+      }
+    },
+    {
+      "data": {
+        "stringId": 690,
+        "text": "Token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 692,
+        "text": "Pares"
+      }
+    },
+    {
+      "data": {
+        "stringId": 694,
+        "text": "Contas"
+      }
+    },
+    {
+      "data": {
+        "stringId": 696,
+        "text": "Invista tokens LP tokens para ganhar BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 698,
+        "text": "Ativo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 700,
+        "text": "Inativo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 702,
+        "text": "Dual"
+      }
+    },
+    {
+      "data": {
+        "stringId": 704,
+        "text": "Compor"
+      }
+    },
+    {
+      "data": {
+        "stringId": 706,
+        "text": "Resgatar %asset%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 708,
+        "text": "Loteria BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 710,
+        "text": "Compre bilhetes com BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 712,
+        "text": "Ganhe se 2, 3 ou 4 dos números do seu bilhete forem sorteados!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 716,
+        "text": "Next draw"
+      }
+    },
+    {
+      "data": {
+        "stringId": 718,
+        "text": "Past draws"
+      }
+    },
+    {
+      "data": {
+        "stringId": 720,
+        "text": "Round %num%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 722,
+        "text": "Total Pot"
+      }
+    },
+    {
+      "data": {
+        "stringId": 724,
+        "text": "Seus bilhetes para esta rodada"
+      }
+    },
+    {
+      "data": {
+        "stringId": 726,
+        "text": "Desculpe, não há prêmios para coletar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 728,
+        "text": "Na Carteira"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10000,
+        "text": "A taxa de depósito será usada para recomprar BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10001,
+        "text": "Taxa de Depósito"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10002,
+        "text": "Invista tokens para ganhar BLZD"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10003,
+        "text": "Anúncios"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}
